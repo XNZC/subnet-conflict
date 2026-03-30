@@ -1,5 +1,5 @@
 # subnet-conflict
-This project provides a way to detect subnet/IP conflicts on using [netlink](https://www.man7.org/linux/man-pages/man7/netlink.7.html)
+This project provides a way to detect subnet/IP conflicts using [netlink](https://www.man7.org/linux/man-pages/man7/netlink.7.html)
 
 ## Features
   + Detects subnet/IP conflicts
